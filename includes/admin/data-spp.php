@@ -1,5 +1,5 @@
 <h2>Data SPP</h2>
-<a href="?p=tambah-spp">Tambah Data</a>
+<a href="?p=tambah-spp">Tambah Data SPP</a>
 <br><br>
 
 <?php
